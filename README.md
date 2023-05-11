@@ -15,4 +15,4 @@ Development has been done using an Anaconda envirnoment supporting these librari
 
 **TODO: Add link/documentation for how to get setup when using this repo**
 
-**TODO: Aquire training data and add reference here
+**TODO: Aquire training data and add reference here**
